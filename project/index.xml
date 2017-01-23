@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Siyuan Zhao</title>
+    <link>https://siyuanzhao.github.io/project/index.xml</link>
+    <description>Recent content in Projects on Siyuan Zhao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Siyuan Zhao</copyright>
+    <lastBuildDate>Fri, 05 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Key-Value Memory Networks in Tensorflow</title>
+      <link>https://siyuanzhao.github.io/project/mn-tensorflow/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://siyuanzhao.github.io/project/mn-tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Knowledge Tracing in Tensorflow</title>
+      <link>https://siyuanzhao.github.io/project/dkt-tensorflow/</link>
+      <pubDate>Sat, 27 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://siyuanzhao.github.io/project/dkt-tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASSISTments App for Google Classroom</title>
+      <link>https://siyuanzhao.github.io/project/gclassroom/</link>
+      <pubDate>Wed, 22 Jul 2015 21:15:22 -0500</pubDate>
+      
+      <guid>https://siyuanzhao.github.io/project/gclassroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASSISTments Direct</title>
+      <link>https://siyuanzhao.github.io/project/direct/</link>
+      <pubDate>Fri, 22 May 2015 21:18:51 -0500</pubDate>
+      
+      <guid>https://siyuanzhao.github.io/project/direct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

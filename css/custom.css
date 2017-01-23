@@ -1,0 +1,31 @@
+.article-title {
+  font-size: 1rem;
+}
+
+.pub-list-item .pub-publication {
+  font-size: 0.7rem;
+}
+
+.pub-list-item {
+  margin-bottom: 0px;
+}
+
+.pub-list-item .pub-authors {
+  font-size: 0.7rem;
+}
+
+body {
+    font-size: 0.85rem;
+}
+
+p {
+    margin-bottom: 0.5rem;
+}
+
+.home-section {
+    padding: 70px 0 50px 0;
+}
+
+.card h4 {
+    text-transform: none;
+}
