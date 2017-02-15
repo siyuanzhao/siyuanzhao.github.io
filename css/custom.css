@@ -11,7 +11,8 @@
 }
 
 .pub-list-item .pub-authors {
-  font-size: 0.7rem;
+    font-size: 0.7rem;
+    color: black;
 }
 
 body {
