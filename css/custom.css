@@ -30,3 +30,7 @@ p {
 .card h4 {
     text-transform: none;
 }
+
+#profile .portrait-title h3 {
+    color: black;
+}

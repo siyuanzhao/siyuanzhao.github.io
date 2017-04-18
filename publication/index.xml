@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Siyuan Zhao</copyright>
-    <lastBuildDate>Wed, 26 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2017 12:20:11 -0400</lastBuildDate>
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Estimating Individual Treatment Effect from Educational Studies with Residual Counterfactual Networks</title>
+      <link>https://siyuanzhao.github.io/publication/rcf-ite/</link>
+      <pubDate>Tue, 18 Apr 2017 12:20:11 -0400</pubDate>
+      
+      <guid>https://siyuanzhao.github.io/publication/rcf-ite/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Memory-Augmented Neural Model for Automated Grading</title>

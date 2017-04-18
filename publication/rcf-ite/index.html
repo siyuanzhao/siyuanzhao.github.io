@@ -36,11 +36,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://siyuanzhao.github.io/publication/dkt-edm/">
+  <link rel="canonical" href="https://siyuanzhao.github.io/publication/rcf-ite/">
 
   
 
-  <title>Going Deeper with Deep Knowledge Tracing | Siyuan Zhao</title>
+  <title>Estimating Individual Treatment Effect from Educational Studies with Residual Counterfactual Networks | Siyuan Zhao</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -127,10 +127,10 @@
   
 
   <div class="container pub-title">
-    <h1 itemprop="name">Going Deeper with Deep Knowledge Tracing</h1>
+    <h1 itemprop="name">Estimating Individual Treatment Effect from Educational Studies with Residual Counterfactual Networks</h1>
     <span class="pub-authors" itemprop="author">
       
-      Xiaolu Xiong, Siyuan Zhao, Eric Vaninwegen, Joseph Beck
+      Siyuan Zhao, Neil Heffernan
       
     </span>
     <span class="pull-right">
@@ -139,35 +139,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsiyuanzhao.github.io%2fpublication%2fdkt-edm%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsiyuanzhao.github.io%2fpublication%2frcf-ite%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Going%20Deeper%20with%20Deep%20Knowledge%20Tracing&amp;url=https%3a%2f%2fsiyuanzhao.github.io%2fpublication%2fdkt-edm%2f"
+         href="https://twitter.com/intent/tweet?text=Estimating%20Individual%20Treatment%20Effect%20from%20Educational%20Studies%20with%20Residual%20Counterfactual%20Networks&amp;url=https%3a%2f%2fsiyuanzhao.github.io%2fpublication%2frcf-ite%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fsiyuanzhao.github.io%2fpublication%2fdkt-edm%2f&amp;title=Going%20Deeper%20with%20Deep%20Knowledge%20Tracing"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fsiyuanzhao.github.io%2fpublication%2frcf-ite%2f&amp;title=Estimating%20Individual%20Treatment%20Effect%20from%20Educational%20Studies%20with%20Residual%20Counterfactual%20Networks"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fsiyuanzhao.github.io%2fpublication%2fdkt-edm%2f&amp;title=Going%20Deeper%20with%20Deep%20Knowledge%20Tracing"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fsiyuanzhao.github.io%2fpublication%2frcf-ite%2f&amp;title=Estimating%20Individual%20Treatment%20Effect%20from%20Educational%20Studies%20with%20Residual%20Counterfactual%20Networks"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Going%20Deeper%20with%20Deep%20Knowledge%20Tracing&amp;body=https%3a%2f%2fsiyuanzhao.github.io%2fpublication%2fdkt-edm%2f">
+         href="mailto:?subject=Estimating%20Individual%20Treatment%20Effect%20from%20Educational%20Studies%20with%20Residual%20Counterfactual%20Networks&amp;body=https%3a%2f%2fsiyuanzhao.github.io%2fpublication%2frcf-ite%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -184,7 +184,7 @@
   
 
   <h3>Abstract</h3>
-  <p class="pub-abstract" itemprop="text">Over the last couple of decades, there have been a large variety of approaches towards modeling student knowledge within intelligent tutoring systems. With the booming development of deep learning and large scale artificial neural networks, there have been empirical successes in a number of machine learning and data mining applications, including student knowledge modeling. Deep Knowledge Tracing (DKT), a pioneer algorithm that utilizes recurrent neural networks to model student learning, reports substantial improvements in prediction performance. To help the EDM community better understand the promising techniques of deep learning, we examine DKT alongside of two well-studied models for knowledge modeling, PFA and BKT. In addition to sharing a primer on the internal computational structures of DKT, we also report on potential issues that arise from data formatting. We take steps to reproduce the experiments of Deep Knowledge Tracing by implementing a DKT algorithm using Google’s TensorFlow framework; we also reproduce similar results on new datasets. We determine that the DKT findings don&#39;t hold an overall edge when compared to the PFA model, when applied to properly prepared datasets that are limited to original (i.e. non-help) questions. More importantly, during the investigation of DKT, we not only discovered a data quality issue in a public available data set, but we also detected a vulnerability of DKT when handling multiple skill sequences.</p>
+  <p class="pub-abstract" itemprop="text">Personalized learning considers that the causal effects of a studied learning intervention may differ for the individual student. Making the inference about causal effects of studies interventions is a central problem. In this paper we propose the Residual Counterfactual Networks (RCN) for answering counterfactual inference questions, such as &#34;Would this particular student benefit more from the video hint or the text hint when the student cannot solve a problem?&#34;. The model learns a balancing representation of students by minimizing the distance between the distributions of the control and the treated populations, and then uses a residual block to estimate the individual treatment effect based on the representation of the student. We run experiments on semi-simulated dataset and real-world educational online experiment dataset to evaluate the efficacy of our model. The results show that our model matches or outperforms the state-of-the-art.</p>
 
   
   <div class="row">
@@ -211,7 +211,7 @@
     <div class="col-sm-10">
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-        <div class="col-xs-12 col-sm-9">In <em>The 9th International Conference on Educational Data Mining (EDM 2016)</em></div>
+        <div class="col-xs-12 col-sm-9">In <em>the 10th International Conference on Educational Data Mining (EDM 2017)</em></div>
       </div>
     </div>
     <div class="col-sm-1"></div>
@@ -224,7 +224,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
         <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-          May, 2016
+          April, 2017
         </div>
       </div>
     </div>
@@ -244,16 +244,12 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="http://www.educationaldatamining.org/EDM2016/proceedings/paper_133.pdf">
+<a class="btn btn-primary btn-outline" href="https://siyuanzhao.github.io/pdf/EDM_2017_paper_113.pdf">
   PDF
 </a>
 
 
 
-
-<a class="btn btn-primary btn-outline" href="https://github.com/siyuanzhao/2016-EDM">
-  Code
-</a>
 
 
 
@@ -277,10 +273,10 @@
   <nav>
   <ul class="pager">
     
-
+    <li class="previous"><a href="https://siyuanzhao.github.io/publication/aes/"><span
+      aria-hidden="true">&larr;</span> A Memory-Augmented Neural Model for Automated Grading</a></li>
     
-    <li class="next"><a href="https://siyuanzhao.github.io/publication/cqa-mn-kg/">Clinical Question Answering using Key-Value Memory Networks and Knowledge Graph <span
-      aria-hidden="true">&rarr;</span></a></li>
+
     
   </ul>
 </nav>
