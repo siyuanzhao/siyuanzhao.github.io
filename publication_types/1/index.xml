@@ -2,15 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Siyuan Zhao</title>
-    <link>https://siyuanzhao.github.io/publication_types/1/index.xml</link>
+    <link>https://siyuanzhao.github.io/publication_types/1/</link>
     <description>Recent content in 1 on Siyuan Zhao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Siyuan Zhao</copyright>
-    <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Apr 2017 12:20:11 -0400</lastBuildDate>
+    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Estimating Individual Treatment Effect from Educational Studies with Residual Counterfactual Networks</title>
+      <title>Estimating Individual Treatment Effects from Educational Studies with Residual Counterfactual Networks</title>
       <link>https://siyuanzhao.github.io/publication/rcf-ite/</link>
       <pubDate>Tue, 18 Apr 2017 12:20:11 -0400</pubDate>
       
