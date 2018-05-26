@@ -6,9 +6,68 @@
     <description>Recent content in Homes on Siyuan Zhao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Siyuan Zhao</copyright>
+    <copyright>&amp;copy; 2018 Siyuan Zhao</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://siyuanzhao.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://siyuanzhao.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://siyuanzhao.github.io/home/about/</guid>
+      <description>I am a Ph.D. in Computer Science Department at Worcester Polytechnic Institute (WPI), advised by Prof. Neil Heffernan. Before joining WPI, I got a master degree in Computer Science at South China University of Technology .
+My research interests are in the application of machine learning (especially deep learning), contextual bandits, and domain adaptation. I have applied deep learning models to solving various tasks (e.g. time-series prediction, text classification with memory networks, estimation of treatment effects using domain adaptation).</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://siyuanzhao.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://siyuanzhao.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://siyuanzhao.github.io/home/experience/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://siyuanzhao.github.io/home/experience/</guid>
+      <description>Applied Scientist Intern Amazon (June 2017 - August 2017) - San Diego, CA
+ Worked in Transaction Risk Management Systems (TRMS) group. Applied reinforcement learning algorithms.  Research Intern Philips Research North America (May 2016 - August 2016) - Cambridge, MA
+ Implemented Key-Value Memory Networks and Gated Attention Readers to classify diagnoses from medical notes Participated in TREC Clinical Decision Support Track 2016  Research Assistant ASSISTments Lab (May 2014 - May 2018) - WPI</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://siyuanzhao.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://siyuanzhao.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://siyuanzhao.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://siyuanzhao.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trillie</title>
+      <link>https://siyuanzhao.github.io/home/trillie/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://siyuanzhao.github.io/home/trillie/</guid>
+      <description>          </description>
+    </item>
     
   </channel>
 </rss>

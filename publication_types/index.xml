@@ -6,9 +6,11 @@
     <description>Recent content in Publication_types on Siyuan Zhao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Siyuan Zhao</copyright>
+    <copyright>&amp;copy; 2018 Siyuan Zhao</copyright>
     <lastBuildDate>Thu, 22 Sep 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://siyuanzhao.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>0</title>

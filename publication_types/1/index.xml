@@ -6,9 +6,11 @@
     <description>Recent content in 1 on Siyuan Zhao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Siyuan Zhao</copyright>
+    <copyright>&amp;copy; 2018 Siyuan Zhao</copyright>
     <lastBuildDate>Tue, 18 Apr 2017 12:20:11 -0400</lastBuildDate>
-    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://siyuanzhao.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Estimating Individual Treatment Effects from Educational Studies with Residual Counterfactual Networks</title>
